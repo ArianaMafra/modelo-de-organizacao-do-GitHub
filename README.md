@@ -11,8 +11,16 @@ Ex.: Avançado_Aula_1_Aividade_do Aluno
 
 --------------------------------------------------------------------------------
 -> Oraganização de códigos Pessoal:
+
 Ex.: Pessoal_Ariana_React_Native_1
+
 Ex.: Pessoal_Ariana_Java_Script_1
+
 Ex.: Pessoal_Ariana_React_1
+
 Ex.: Pessoal_Ariana_HTML_1
+
 Ex.: Pessoal_Ariana_CSS_1
+
+--------------------------------------------------------------------------------
+
