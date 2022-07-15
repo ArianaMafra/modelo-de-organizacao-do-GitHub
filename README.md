@@ -35,5 +35,7 @@ Ex.: Pessoal_Ariana_HTML_1
 
 Ex.: Pessoal_Ariana_CSS_1
 
+Ex.: Pessoal_Nome_do_arquivo
+
 --------------------------------------------------------------------------------
 
